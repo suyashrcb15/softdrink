@@ -1,0 +1,6275 @@
+[
+  {
+    "id": 1,
+    "name": "Pepsi",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?Pepsi,drink",
+    "ingredients": [
+      "caramel color",
+      "orange essence",
+      "sodium benzoate",
+      "fruit juice",
+      "apple extract",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Coca-Cola",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-Cola,drink",
+    "ingredients": [
+      "caramel color",
+      "artificial sweeteners",
+      "mango pulp",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sprite",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?Sprite,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "carbonated water",
+      "artificial sweeteners",
+      "vitamin C",
+      "lime flavor",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Fanta",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?Fanta,drink",
+    "ingredients": [
+      "lemon juice",
+      "apple extract",
+      "phosphoric acid",
+      "sodium benzoate",
+      "orange essence",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mountain Dew",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDew,drink",
+    "ingredients": [
+      "orange essence",
+      "vitamin C",
+      "sugar"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "7 Up",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7Up,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "carbonated water",
+      "phosphoric acid",
+      "glucose",
+      "sugar"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr Pepper",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepper,drink",
+    "ingredients": [
+      "caramel color",
+      "lime flavor",
+      "potassium sorbate",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Root Beer",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeer,drink",
+    "ingredients": [
+      "lemon juice",
+      "sodium benzoate",
+      "fruit juice",
+      "citric acid",
+      "glucose"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mirinda",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?Mirinda,drink",
+    "ingredients": [
+      "sugar",
+      "glucose",
+      "caramel color",
+      "artificial sweeteners",
+      "sodium citrate",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Thums Up",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUp,drink",
+    "ingredients": [
+      "carbonated water",
+      "sodium citrate",
+      "lemon juice",
+      "natural flavors",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Limca",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?Limca,drink",
+    "ingredients": [
+      "carbonated water",
+      "apple extract",
+      "sugar",
+      "orange essence",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Appy Fizz",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizz,drink",
+    "ingredients": [
+      "lime flavor",
+      "fruit juice",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Slice",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?Slice,drink",
+    "ingredients": [
+      "caramel color",
+      "lemon juice",
+      "lime flavor",
+      "orange essence",
+      "phosphoric acid",
+      "glucose"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Maaza",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?Maaza,drink",
+    "ingredients": [
+      "citric acid",
+      "fruit juice",
+      "sugar",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Sting",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?Sting,drink",
+    "ingredients": [
+      "citric acid",
+      "vitamin C",
+      "apple extract",
+      "fruit juice",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Monster Energy",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergy,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "carbonated water",
+      "lemon juice",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Red Bull",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBull,drink",
+    "ingredients": [
+      "lemon juice",
+      "natural flavors",
+      "caffeine",
+      "glucose",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Prime",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?Prime,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "mango pulp",
+      "apple extract",
+      "caffeine",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Tropicana",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?Tropicana,drink",
+    "ingredients": [
+      "sugar",
+      "natural flavors",
+      "carbonated water",
+      "phosphoric acid",
+      "caramel color",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Minute Maid",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaid,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "mango pulp",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pepsi Variant 1",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant1,drink",
+    "ingredients": [
+      "vitamin C",
+      "natural flavors",
+      "phosphoric acid",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Coca-Cola Variant 1",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant1,drink",
+    "ingredients": [
+      "fruit juice",
+      "lime flavor",
+      "caffeine",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Sprite Variant 1",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant1,drink",
+    "ingredients": [
+      "carbonated water",
+      "sodium benzoate",
+      "fruit juice",
+      "orange essence",
+      "natural flavors",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Fanta Variant 1",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant1,drink",
+    "ingredients": [
+      "electrolytes",
+      "sugar",
+      "glucose",
+      "lime flavor",
+      "potassium sorbate",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mountain Dew Variant 1",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant1,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "citric acid",
+      "electrolytes",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "7 Up Variant 1",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant1,drink",
+    "ingredients": [
+      "natural flavors",
+      "carbonated water",
+      "lemon juice",
+      "caramel color",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Dr Pepper Variant 1",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant1,drink",
+    "ingredients": [
+      "sugar",
+      "artificial sweeteners",
+      "fruit juice",
+      "apple extract",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Root Beer Variant 1",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant1,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "orange essence",
+      "vitamin C",
+      "caramel color",
+      "mango pulp",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Mirinda Variant 1",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant1,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "carbonated water",
+      "sodium benzoate",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Thums Up Variant 1",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant1,drink",
+    "ingredients": [
+      "sugar",
+      "sodium benzoate",
+      "lemon juice",
+      "orange essence",
+      "citric acid",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Limca Variant 1",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant1,drink",
+    "ingredients": [
+      "apple extract",
+      "artificial sweeteners",
+      "vitamin C",
+      "sodium benzoate",
+      "sugar"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Appy Fizz Variant 1",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant1,drink",
+    "ingredients": [
+      "vitamin C",
+      "glucose",
+      "apple extract",
+      "sodium benzoate",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Slice Variant 1",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant1,drink",
+    "ingredients": [
+      "mango pulp",
+      "sodium citrate",
+      "phosphoric acid",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Maaza Variant 1",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant1,drink",
+    "ingredients": [
+      "apple extract",
+      "vitamin C",
+      "glucose"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Sting Variant 1",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant1,drink",
+    "ingredients": [
+      "electrolytes",
+      "fruit juice",
+      "natural flavors",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Monster Energy Variant 1",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant1,drink",
+    "ingredients": [
+      "mango pulp",
+      "sugar",
+      "phosphoric acid",
+      "lime flavor",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Red Bull Variant 1",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant1,drink",
+    "ingredients": [
+      "lemon juice",
+      "potassium sorbate",
+      "vitamin C",
+      "sodium benzoate",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Prime Variant 1",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant1,drink",
+    "ingredients": [
+      "glucose",
+      "caramel color",
+      "mango pulp",
+      "electrolytes",
+      "vitamin C",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Tropicana Variant 1",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant1,drink",
+    "ingredients": [
+      "caramel color",
+      "vitamin C",
+      "caffeine",
+      "glucose",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Minute Maid Variant 1",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant1,drink",
+    "ingredients": [
+      "fruit juice",
+      "apple extract",
+      "artificial sweeteners",
+      "electrolytes",
+      "sodium benzoate",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Pepsi Variant 2",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant2,drink",
+    "ingredients": [
+      "fruit juice",
+      "caramel color",
+      "citric acid",
+      "glucose",
+      "natural flavors",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Coca-Cola Variant 2",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant2,drink",
+    "ingredients": [
+      "lemon juice",
+      "lime flavor",
+      "carbonated water",
+      "artificial sweeteners",
+      "phosphoric acid",
+      "glucose"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Sprite Variant 2",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant2,drink",
+    "ingredients": [
+      "citric acid",
+      "caramel color",
+      "glucose",
+      "natural flavors",
+      "orange essence",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Fanta Variant 2",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant2,drink",
+    "ingredients": [
+      "lime flavor",
+      "caffeine",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Mountain Dew Variant 2",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant2,drink",
+    "ingredients": [
+      "sugar",
+      "fruit juice",
+      "vitamin C",
+      "sodium benzoate",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "7 Up Variant 2",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant2,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "lime flavor",
+      "electrolytes",
+      "potassium sorbate",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Dr Pepper Variant 2",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant2,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "electrolytes",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Root Beer Variant 2",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant2,drink",
+    "ingredients": [
+      "caramel color",
+      "carbonated water",
+      "natural flavors",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Mirinda Variant 2",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant2,drink",
+    "ingredients": [
+      "orange essence",
+      "artificial sweeteners",
+      "lemon juice",
+      "glucose"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Thums Up Variant 2",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant2,drink",
+    "ingredients": [
+      "fruit juice",
+      "carbonated water",
+      "mango pulp",
+      "potassium sorbate",
+      "glucose"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Limca Variant 2",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant2,drink",
+    "ingredients": [
+      "sodium citrate",
+      "citric acid",
+      "sodium benzoate",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Appy Fizz Variant 2",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant2,drink",
+    "ingredients": [
+      "lime flavor",
+      "lemon juice",
+      "potassium sorbate",
+      "citric acid",
+      "sugar"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Slice Variant 2",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant2,drink",
+    "ingredients": [
+      "apple extract",
+      "lime flavor",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Maaza Variant 2",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant2,drink",
+    "ingredients": [
+      "sugar",
+      "carbonated water",
+      "electrolytes",
+      "sodium citrate",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Sting Variant 2",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant2,drink",
+    "ingredients": [
+      "lemon juice",
+      "vitamin C",
+      "artificial sweeteners",
+      "natural flavors",
+      "apple extract",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Monster Energy Variant 2",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant2,drink",
+    "ingredients": [
+      "citric acid",
+      "sodium citrate",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Red Bull Variant 2",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant2,drink",
+    "ingredients": [
+      "caramel color",
+      "apple extract",
+      "sodium citrate",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Prime Variant 2",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant2,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "carbonated water",
+      "fruit juice",
+      "caramel color",
+      "sugar",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Tropicana Variant 2",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant2,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "glucose",
+      "fruit juice",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Minute Maid Variant 2",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant2,drink",
+    "ingredients": [
+      "fruit juice",
+      "caffeine",
+      "sugar",
+      "electrolytes",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Pepsi Variant 3",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant3,drink",
+    "ingredients": [
+      "sodium citrate",
+      "electrolytes",
+      "lime flavor",
+      "lemon juice",
+      "artificial sweeteners",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Coca-Cola Variant 3",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant3,drink",
+    "ingredients": [
+      "orange essence",
+      "lemon juice",
+      "potassium sorbate",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Sprite Variant 3",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant3,drink",
+    "ingredients": [
+      "natural flavors",
+      "citric acid",
+      "carbonated water",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Fanta Variant 3",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant3,drink",
+    "ingredients": [
+      "electrolytes",
+      "caffeine",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Mountain Dew Variant 3",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant3,drink",
+    "ingredients": [
+      "electrolytes",
+      "glucose",
+      "sodium benzoate",
+      "caramel color",
+      "phosphoric acid",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "7 Up Variant 3",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant3,drink",
+    "ingredients": [
+      "glucose",
+      "potassium sorbate",
+      "lime flavor",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Dr Pepper Variant 3",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant3,drink",
+    "ingredients": [
+      "lemon juice",
+      "orange essence",
+      "lime flavor",
+      "glucose",
+      "sodium citrate",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Root Beer Variant 3",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant3,drink",
+    "ingredients": [
+      "apple extract",
+      "natural flavors",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Mirinda Variant 3",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant3,drink",
+    "ingredients": [
+      "carbonated water",
+      "sugar",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Thums Up Variant 3",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant3,drink",
+    "ingredients": [
+      "sodium citrate",
+      "natural flavors",
+      "glucose",
+      "caramel color",
+      "sugar",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Limca Variant 3",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant3,drink",
+    "ingredients": [
+      "citric acid",
+      "glucose",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Appy Fizz Variant 3",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant3,drink",
+    "ingredients": [
+      "fruit juice",
+      "lemon juice",
+      "mango pulp",
+      "potassium sorbate",
+      "carbonated water",
+      "glucose"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Slice Variant 3",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant3,drink",
+    "ingredients": [
+      "glucose",
+      "lime flavor",
+      "electrolytes",
+      "potassium sorbate",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Maaza Variant 3",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant3,drink",
+    "ingredients": [
+      "citric acid",
+      "lemon juice",
+      "glucose",
+      "sugar"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Sting Variant 3",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant3,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "lime flavor",
+      "glucose",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Monster Energy Variant 3",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant3,drink",
+    "ingredients": [
+      "apple extract",
+      "lime flavor",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Red Bull Variant 3",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant3,drink",
+    "ingredients": [
+      "lemon juice",
+      "electrolytes",
+      "natural flavors",
+      "orange essence",
+      "citric acid",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Prime Variant 3",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant3,drink",
+    "ingredients": [
+      "orange essence",
+      "natural flavors",
+      "vitamin C",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Tropicana Variant 3",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant3,drink",
+    "ingredients": [
+      "lime flavor",
+      "sugar",
+      "lemon juice",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Minute Maid Variant 3",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant3,drink",
+    "ingredients": [
+      "orange essence",
+      "citric acid",
+      "glucose",
+      "natural flavors",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Pepsi Variant 4",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant4,drink",
+    "ingredients": [
+      "orange essence",
+      "phosphoric acid",
+      "caramel color",
+      "glucose",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Coca-Cola Variant 4",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant4,drink",
+    "ingredients": [
+      "glucose",
+      "fruit juice",
+      "caramel color",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Sprite Variant 4",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant4,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "vitamin C",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Fanta Variant 4",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant4,drink",
+    "ingredients": [
+      "natural flavors",
+      "caramel color",
+      "lime flavor",
+      "artificial sweeteners",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Mountain Dew Variant 4",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant4,drink",
+    "ingredients": [
+      "electrolytes",
+      "sugar",
+      "phosphoric acid",
+      "citric acid",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "7 Up Variant 4",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant4,drink",
+    "ingredients": [
+      "orange essence",
+      "mango pulp",
+      "vitamin C",
+      "citric acid",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dr Pepper Variant 4",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant4,drink",
+    "ingredients": [
+      "fruit juice",
+      "sugar",
+      "lime flavor",
+      "orange essence",
+      "artificial sweeteners",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Root Beer Variant 4",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant4,drink",
+    "ingredients": [
+      "lemon juice",
+      "orange essence",
+      "glucose",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Mirinda Variant 4",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant4,drink",
+    "ingredients": [
+      "electrolytes",
+      "sodium benzoate",
+      "sugar",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Thums Up Variant 4",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant4,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "potassium sorbate",
+      "sodium citrate",
+      "phosphoric acid",
+      "fruit juice",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Limca Variant 4",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant4,drink",
+    "ingredients": [
+      "lemon juice",
+      "mango pulp",
+      "sodium benzoate",
+      "phosphoric acid",
+      "sugar"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Appy Fizz Variant 4",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant4,drink",
+    "ingredients": [
+      "carbonated water",
+      "lemon juice",
+      "sodium citrate",
+      "potassium sorbate",
+      "apple extract",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Slice Variant 4",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant4,drink",
+    "ingredients": [
+      "lime flavor",
+      "fruit juice",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Maaza Variant 4",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant4,drink",
+    "ingredients": [
+      "orange essence",
+      "lime flavor",
+      "sugar"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Sting Variant 4",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant4,drink",
+    "ingredients": [
+      "glucose",
+      "citric acid",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Monster Energy Variant 4",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant4,drink",
+    "ingredients": [
+      "carbonated water",
+      "lemon juice",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Red Bull Variant 4",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant4,drink",
+    "ingredients": [
+      "fruit juice",
+      "glucose",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Prime Variant 4",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant4,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "artificial sweeteners",
+      "orange essence",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Tropicana Variant 4",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant4,drink",
+    "ingredients": [
+      "caramel color",
+      "sodium citrate",
+      "lime flavor",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Minute Maid Variant 4",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant4,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "natural flavors",
+      "orange essence",
+      "phosphoric acid",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Pepsi Variant 5",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant5,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "electrolytes",
+      "natural flavors",
+      "mango pulp",
+      "sugar",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Coca-Cola Variant 5",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant5,drink",
+    "ingredients": [
+      "mango pulp",
+      "fruit juice",
+      "phosphoric acid",
+      "lemon juice",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Sprite Variant 5",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant5,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "sodium benzoate",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Fanta Variant 5",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant5,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "lemon juice",
+      "caramel color",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Mountain Dew Variant 5",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant5,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "glucose",
+      "lemon juice",
+      "phosphoric acid",
+      "sodium citrate",
+      "sugar"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "7 Up Variant 5",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant5,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "citric acid",
+      "sugar",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Dr Pepper Variant 5",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant5,drink",
+    "ingredients": [
+      "caramel color",
+      "orange essence",
+      "potassium sorbate",
+      "mango pulp",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Root Beer Variant 5",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant5,drink",
+    "ingredients": [
+      "vitamin C",
+      "apple extract",
+      "caramel color",
+      "fruit juice",
+      "phosphoric acid",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Mirinda Variant 5",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant5,drink",
+    "ingredients": [
+      "caramel color",
+      "sodium benzoate",
+      "orange essence",
+      "apple extract",
+      "artificial sweeteners",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Thums Up Variant 5",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant5,drink",
+    "ingredients": [
+      "caffeine",
+      "sodium citrate",
+      "sugar",
+      "apple extract",
+      "orange essence",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Limca Variant 5",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant5,drink",
+    "ingredients": [
+      "lemon juice",
+      "artificial sweeteners",
+      "carbonated water",
+      "sugar",
+      "glucose"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Appy Fizz Variant 5",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant5,drink",
+    "ingredients": [
+      "sodium citrate",
+      "sodium benzoate",
+      "fruit juice",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Slice Variant 5",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant5,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "apple extract",
+      "carbonated water",
+      "caffeine",
+      "natural flavors",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Maaza Variant 5",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant5,drink",
+    "ingredients": [
+      "apple extract",
+      "natural flavors",
+      "potassium sorbate",
+      "vitamin C",
+      "sugar",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Sting Variant 5",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant5,drink",
+    "ingredients": [
+      "mango pulp",
+      "glucose",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Monster Energy Variant 5",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant5,drink",
+    "ingredients": [
+      "electrolytes",
+      "orange essence",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Red Bull Variant 5",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant5,drink",
+    "ingredients": [
+      "fruit juice",
+      "sodium benzoate",
+      "caffeine",
+      "phosphoric acid",
+      "mango pulp",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Prime Variant 5",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant5,drink",
+    "ingredients": [
+      "natural flavors",
+      "sodium citrate",
+      "vitamin C",
+      "citric acid",
+      "sodium benzoate",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Tropicana Variant 5",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant5,drink",
+    "ingredients": [
+      "sodium citrate",
+      "phosphoric acid",
+      "citric acid",
+      "lemon juice",
+      "sugar",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Minute Maid Variant 5",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant5,drink",
+    "ingredients": [
+      "lemon juice",
+      "potassium sorbate",
+      "sodium benzoate",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Pepsi Variant 6",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant6,drink",
+    "ingredients": [
+      "carbonated water",
+      "lemon juice",
+      "artificial sweeteners",
+      "glucose",
+      "fruit juice",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Coca-Cola Variant 6",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant6,drink",
+    "ingredients": [
+      "fruit juice",
+      "artificial sweeteners",
+      "natural flavors",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Sprite Variant 6",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant6,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "citric acid",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Fanta Variant 6",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant6,drink",
+    "ingredients": [
+      "sodium citrate",
+      "electrolytes",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Mountain Dew Variant 6",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant6,drink",
+    "ingredients": [
+      "vitamin C",
+      "potassium sorbate",
+      "caffeine",
+      "fruit juice",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "7 Up Variant 6",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant6,drink",
+    "ingredients": [
+      "mango pulp",
+      "lemon juice",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Dr Pepper Variant 6",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant6,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "citric acid",
+      "glucose",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Root Beer Variant 6",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant6,drink",
+    "ingredients": [
+      "natural flavors",
+      "fruit juice",
+      "glucose",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Mirinda Variant 6",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant6,drink",
+    "ingredients": [
+      "electrolytes",
+      "glucose",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Thums Up Variant 6",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant6,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "caffeine",
+      "fruit juice",
+      "mango pulp",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Limca Variant 6",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant6,drink",
+    "ingredients": [
+      "citric acid",
+      "lime flavor",
+      "orange essence",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Appy Fizz Variant 6",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant6,drink",
+    "ingredients": [
+      "vitamin C",
+      "sugar",
+      "mango pulp",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Slice Variant 6",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant6,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "carbonated water",
+      "lemon juice",
+      "glucose",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Maaza Variant 6",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant6,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "lemon juice",
+      "electrolytes",
+      "glucose"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Sting Variant 6",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant6,drink",
+    "ingredients": [
+      "lemon juice",
+      "sodium citrate",
+      "citric acid",
+      "electrolytes",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Monster Energy Variant 6",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant6,drink",
+    "ingredients": [
+      "lime flavor",
+      "caramel color",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Red Bull Variant 6",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant6,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "lime flavor",
+      "electrolytes",
+      "glucose"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Prime Variant 6",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant6,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "phosphoric acid",
+      "sodium citrate",
+      "sugar",
+      "lemon juice",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Tropicana Variant 6",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant6,drink",
+    "ingredients": [
+      "vitamin C",
+      "glucose",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Minute Maid Variant 6",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant6,drink",
+    "ingredients": [
+      "orange essence",
+      "artificial sweeteners",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Pepsi Variant 7",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant7,drink",
+    "ingredients": [
+      "caffeine",
+      "natural flavors",
+      "orange essence",
+      "apple extract",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Coca-Cola Variant 7",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant7,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "glucose",
+      "artificial sweeteners",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Sprite Variant 7",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant7,drink",
+    "ingredients": [
+      "carbonated water",
+      "caffeine",
+      "apple extract",
+      "lime flavor",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Fanta Variant 7",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant7,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "vitamin C",
+      "sodium citrate",
+      "potassium sorbate",
+      "sodium benzoate",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Mountain Dew Variant 7",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant7,drink",
+    "ingredients": [
+      "natural flavors",
+      "potassium sorbate",
+      "orange essence",
+      "citric acid",
+      "sugar"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "7 Up Variant 7",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant7,drink",
+    "ingredients": [
+      "glucose",
+      "caffeine",
+      "potassium sorbate",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Dr Pepper Variant 7",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant7,drink",
+    "ingredients": [
+      "vitamin C",
+      "electrolytes",
+      "sodium citrate",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Root Beer Variant 7",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant7,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "caffeine",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Mirinda Variant 7",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant7,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "electrolytes",
+      "glucose",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Thums Up Variant 7",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant7,drink",
+    "ingredients": [
+      "mango pulp",
+      "caramel color",
+      "carbonated water",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Limca Variant 7",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant7,drink",
+    "ingredients": [
+      "electrolytes",
+      "orange essence",
+      "sodium benzoate",
+      "mango pulp",
+      "potassium sorbate",
+      "glucose"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Appy Fizz Variant 7",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant7,drink",
+    "ingredients": [
+      "caffeine",
+      "mango pulp",
+      "potassium sorbate",
+      "lemon juice",
+      "phosphoric acid",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Slice Variant 7",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant7,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "mango pulp",
+      "caramel color",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Maaza Variant 7",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant7,drink",
+    "ingredients": [
+      "natural flavors",
+      "phosphoric acid",
+      "carbonated water",
+      "orange essence",
+      "fruit juice",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Sting Variant 7",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant7,drink",
+    "ingredients": [
+      "sugar",
+      "citric acid",
+      "phosphoric acid",
+      "caramel color",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Monster Energy Variant 7",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant7,drink",
+    "ingredients": [
+      "fruit juice",
+      "apple extract",
+      "citric acid",
+      "vitamin C",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Red Bull Variant 7",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant7,drink",
+    "ingredients": [
+      "carbonated water",
+      "caramel color",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Prime Variant 7",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant7,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "glucose",
+      "caffeine",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Tropicana Variant 7",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant7,drink",
+    "ingredients": [
+      "electrolytes",
+      "phosphoric acid",
+      "apple extract",
+      "natural flavors",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Minute Maid Variant 7",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant7,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "phosphoric acid",
+      "glucose",
+      "potassium sorbate",
+      "orange essence",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Pepsi Variant 8",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant8,drink",
+    "ingredients": [
+      "glucose",
+      "artificial sweeteners",
+      "apple extract",
+      "phosphoric acid",
+      "caffeine",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Coca-Cola Variant 8",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant8,drink",
+    "ingredients": [
+      "lime flavor",
+      "potassium sorbate",
+      "sodium benzoate",
+      "sodium citrate",
+      "natural flavors",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Sprite Variant 8",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant8,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "lemon juice",
+      "sodium citrate",
+      "electrolytes",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Fanta Variant 8",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant8,drink",
+    "ingredients": [
+      "fruit juice",
+      "potassium sorbate",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Mountain Dew Variant 8",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant8,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "vitamin C",
+      "lemon juice",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "7 Up Variant 8",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant8,drink",
+    "ingredients": [
+      "caffeine",
+      "potassium sorbate",
+      "vitamin C",
+      "lime flavor",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Dr Pepper Variant 8",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant8,drink",
+    "ingredients": [
+      "caffeine",
+      "potassium sorbate",
+      "citric acid",
+      "caramel color",
+      "sodium citrate",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Root Beer Variant 8",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant8,drink",
+    "ingredients": [
+      "orange essence",
+      "potassium sorbate",
+      "mango pulp",
+      "sodium benzoate",
+      "apple extract",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Mirinda Variant 8",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant8,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "phosphoric acid",
+      "sodium citrate",
+      "apple extract",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Thums Up Variant 8",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant8,drink",
+    "ingredients": [
+      "lemon juice",
+      "fruit juice",
+      "vitamin C",
+      "phosphoric acid",
+      "carbonated water",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Limca Variant 8",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant8,drink",
+    "ingredients": [
+      "caffeine",
+      "apple extract",
+      "potassium sorbate",
+      "sodium citrate",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Appy Fizz Variant 8",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant8,drink",
+    "ingredients": [
+      "apple extract",
+      "caramel color",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Slice Variant 8",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant8,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "vitamin C",
+      "citric acid",
+      "lime flavor",
+      "orange essence",
+      "sugar"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Maaza Variant 8",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant8,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "fruit juice",
+      "caffeine",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Sting Variant 8",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant8,drink",
+    "ingredients": [
+      "orange essence",
+      "mango pulp",
+      "sodium benzoate",
+      "caffeine",
+      "sugar",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Monster Energy Variant 8",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant8,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "lime flavor",
+      "mango pulp",
+      "potassium sorbate",
+      "glucose"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Red Bull Variant 8",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant8,drink",
+    "ingredients": [
+      "fruit juice",
+      "potassium sorbate",
+      "artificial sweeteners",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Prime Variant 8",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant8,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "vitamin C",
+      "orange essence",
+      "natural flavors",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Tropicana Variant 8",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant8,drink",
+    "ingredients": [
+      "lemon juice",
+      "citric acid",
+      "fruit juice",
+      "caramel color",
+      "mango pulp",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Minute Maid Variant 8",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant8,drink",
+    "ingredients": [
+      "vitamin C",
+      "caffeine",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Pepsi Variant 9",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant9,drink",
+    "ingredients": [
+      "glucose",
+      "caffeine",
+      "citric acid",
+      "sodium citrate",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Coca-Cola Variant 9",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant9,drink",
+    "ingredients": [
+      "glucose",
+      "electrolytes",
+      "apple extract",
+      "phosphoric acid",
+      "lemon juice",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Sprite Variant 9",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant9,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "caramel color",
+      "lemon juice",
+      "phosphoric acid",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Fanta Variant 9",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant9,drink",
+    "ingredients": [
+      "lime flavor",
+      "sodium citrate",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Mountain Dew Variant 9",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant9,drink",
+    "ingredients": [
+      "apple extract",
+      "natural flavors",
+      "mango pulp",
+      "orange essence",
+      "sugar",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "7 Up Variant 9",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant9,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "sodium citrate",
+      "potassium sorbate",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Dr Pepper Variant 9",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant9,drink",
+    "ingredients": [
+      "caffeine",
+      "fruit juice",
+      "orange essence",
+      "mango pulp",
+      "carbonated water",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Root Beer Variant 9",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant9,drink",
+    "ingredients": [
+      "fruit juice",
+      "electrolytes",
+      "artificial sweeteners",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Mirinda Variant 9",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant9,drink",
+    "ingredients": [
+      "sodium citrate",
+      "caffeine",
+      "caramel color",
+      "phosphoric acid",
+      "glucose",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Thums Up Variant 9",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant9,drink",
+    "ingredients": [
+      "carbonated water",
+      "caramel color",
+      "fruit juice",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Limca Variant 9",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant9,drink",
+    "ingredients": [
+      "lemon juice",
+      "artificial sweeteners",
+      "mango pulp",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Appy Fizz Variant 9",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant9,drink",
+    "ingredients": [
+      "caffeine",
+      "glucose",
+      "sugar",
+      "caramel color",
+      "orange essence",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Slice Variant 9",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant9,drink",
+    "ingredients": [
+      "sodium citrate",
+      "vitamin C",
+      "carbonated water",
+      "caffeine",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Maaza Variant 9",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant9,drink",
+    "ingredients": [
+      "apple extract",
+      "glucose",
+      "sodium benzoate",
+      "sugar"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Sting Variant 9",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant9,drink",
+    "ingredients": [
+      "citric acid",
+      "caffeine",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Monster Energy Variant 9",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant9,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "sodium benzoate",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Red Bull Variant 9",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant9,drink",
+    "ingredients": [
+      "electrolytes",
+      "apple extract",
+      "natural flavors",
+      "sodium citrate",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Prime Variant 9",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant9,drink",
+    "ingredients": [
+      "natural flavors",
+      "sodium citrate",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Tropicana Variant 9",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant9,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "sodium benzoate",
+      "artificial sweeteners",
+      "fruit juice",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Minute Maid Variant 9",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant9,drink",
+    "ingredients": [
+      "electrolytes",
+      "citric acid",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Pepsi Variant 10",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant10,drink",
+    "ingredients": [
+      "glucose",
+      "caramel color",
+      "caffeine",
+      "vitamin C",
+      "phosphoric acid",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Coca-Cola Variant 10",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant10,drink",
+    "ingredients": [
+      "caffeine",
+      "glucose",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Sprite Variant 10",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant10,drink",
+    "ingredients": [
+      "caffeine",
+      "sugar",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Fanta Variant 10",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant10,drink",
+    "ingredients": [
+      "sodium citrate",
+      "potassium sorbate",
+      "glucose",
+      "orange essence",
+      "apple extract",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Mountain Dew Variant 10",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant10,drink",
+    "ingredients": [
+      "caffeine",
+      "natural flavors",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "7 Up Variant 10",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant10,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "carbonated water",
+      "sodium citrate",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Dr Pepper Variant 10",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant10,drink",
+    "ingredients": [
+      "lime flavor",
+      "sugar",
+      "artificial sweeteners",
+      "phosphoric acid",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Root Beer Variant 10",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant10,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "phosphoric acid",
+      "mango pulp",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Mirinda Variant 10",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant10,drink",
+    "ingredients": [
+      "lime flavor",
+      "artificial sweeteners",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "Thums Up Variant 10",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant10,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "glucose",
+      "sodium benzoate",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Limca Variant 10",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant10,drink",
+    "ingredients": [
+      "sugar",
+      "electrolytes",
+      "vitamin C",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Appy Fizz Variant 10",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant10,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "caramel color",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Slice Variant 10",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant10,drink",
+    "ingredients": [
+      "carbonated water",
+      "potassium sorbate",
+      "sugar",
+      "vitamin C",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Maaza Variant 10",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant10,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "potassium sorbate",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Sting Variant 10",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant10,drink",
+    "ingredients": [
+      "citric acid",
+      "sugar",
+      "fruit juice",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Monster Energy Variant 10",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant10,drink",
+    "ingredients": [
+      "electrolytes",
+      "sodium benzoate",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Red Bull Variant 10",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant10,drink",
+    "ingredients": [
+      "glucose",
+      "artificial sweeteners",
+      "apple extract",
+      "lemon juice",
+      "sodium benzoate",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Prime Variant 10",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant10,drink",
+    "ingredients": [
+      "electrolytes",
+      "lime flavor",
+      "citric acid",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Tropicana Variant 10",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant10,drink",
+    "ingredients": [
+      "electrolytes",
+      "artificial sweeteners",
+      "glucose",
+      "sodium benzoate",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Minute Maid Variant 10",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant10,drink",
+    "ingredients": [
+      "electrolytes",
+      "apple extract",
+      "sodium citrate",
+      "phosphoric acid",
+      "glucose"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Pepsi Variant 11",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant11,drink",
+    "ingredients": [
+      "sodium citrate",
+      "orange essence",
+      "sodium benzoate",
+      "vitamin C",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Coca-Cola Variant 11",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant11,drink",
+    "ingredients": [
+      "fruit juice",
+      "electrolytes",
+      "sugar"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Sprite Variant 11",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant11,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "vitamin C",
+      "glucose",
+      "sodium citrate",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Fanta Variant 11",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant11,drink",
+    "ingredients": [
+      "mango pulp",
+      "caramel color",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Mountain Dew Variant 11",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant11,drink",
+    "ingredients": [
+      "carbonated water",
+      "lemon juice",
+      "caramel color",
+      "lime flavor",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "7 Up Variant 11",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant11,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "artificial sweeteners",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Dr Pepper Variant 11",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant11,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "natural flavors",
+      "glucose",
+      "sugar",
+      "caramel color",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Root Beer Variant 11",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant11,drink",
+    "ingredients": [
+      "fruit juice",
+      "sodium citrate",
+      "artificial sweeteners",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Mirinda Variant 11",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant11,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "sugar",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Thums Up Variant 11",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant11,drink",
+    "ingredients": [
+      "carbonated water",
+      "caffeine",
+      "apple extract",
+      "natural flavors",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Limca Variant 11",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant11,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "caramel color",
+      "potassium sorbate",
+      "lime flavor",
+      "natural flavors",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Appy Fizz Variant 11",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant11,drink",
+    "ingredients": [
+      "orange essence",
+      "citric acid",
+      "glucose",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Slice Variant 11",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant11,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "glucose",
+      "sugar",
+      "apple extract",
+      "carbonated water",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Maaza Variant 11",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant11,drink",
+    "ingredients": [
+      "glucose",
+      "vitamin C",
+      "caramel color",
+      "citric acid",
+      "apple extract",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Sting Variant 11",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant11,drink",
+    "ingredients": [
+      "apple extract",
+      "glucose",
+      "sugar",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Monster Energy Variant 11",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant11,drink",
+    "ingredients": [
+      "carbonated water",
+      "fruit juice",
+      "sugar"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Red Bull Variant 11",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant11,drink",
+    "ingredients": [
+      "apple extract",
+      "caramel color",
+      "carbonated water",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Prime Variant 11",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant11,drink",
+    "ingredients": [
+      "orange essence",
+      "vitamin C",
+      "sodium citrate",
+      "potassium sorbate",
+      "apple extract",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Tropicana Variant 11",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant11,drink",
+    "ingredients": [
+      "electrolytes",
+      "citric acid",
+      "natural flavors",
+      "sodium benzoate",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Minute Maid Variant 11",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant11,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "apple extract",
+      "electrolytes",
+      "glucose",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Pepsi Variant 12",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant12,drink",
+    "ingredients": [
+      "glucose",
+      "potassium sorbate",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Coca-Cola Variant 12",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant12,drink",
+    "ingredients": [
+      "sodium citrate",
+      "glucose",
+      "apple extract",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Sprite Variant 12",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant12,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "sugar",
+      "artificial sweeteners",
+      "apple extract",
+      "fruit juice",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Fanta Variant 12",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant12,drink",
+    "ingredients": [
+      "sugar",
+      "mango pulp",
+      "sodium citrate",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Mountain Dew Variant 12",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant12,drink",
+    "ingredients": [
+      "carbonated water",
+      "caramel color",
+      "apple extract",
+      "mango pulp",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "7 Up Variant 12",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant12,drink",
+    "ingredients": [
+      "caramel color",
+      "citric acid",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Dr Pepper Variant 12",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant12,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "mango pulp",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Root Beer Variant 12",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant12,drink",
+    "ingredients": [
+      "glucose",
+      "orange essence",
+      "lime flavor",
+      "lemon juice",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Mirinda Variant 12",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant12,drink",
+    "ingredients": [
+      "electrolytes",
+      "artificial sweeteners",
+      "caramel color",
+      "natural flavors",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Thums Up Variant 12",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant12,drink",
+    "ingredients": [
+      "caramel color",
+      "caffeine",
+      "sugar"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Limca Variant 12",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant12,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "apple extract",
+      "fruit juice",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Appy Fizz Variant 12",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant12,drink",
+    "ingredients": [
+      "vitamin C",
+      "natural flavors",
+      "carbonated water",
+      "glucose"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Slice Variant 12",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant12,drink",
+    "ingredients": [
+      "apple extract",
+      "carbonated water",
+      "citric acid",
+      "vitamin C",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Maaza Variant 12",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant12,drink",
+    "ingredients": [
+      "electrolytes",
+      "lemon juice",
+      "sodium citrate",
+      "sodium benzoate",
+      "caffeine",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Sting Variant 12",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant12,drink",
+    "ingredients": [
+      "fruit juice",
+      "sugar",
+      "orange essence",
+      "sodium benzoate",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Monster Energy Variant 12",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant12,drink",
+    "ingredients": [
+      "natural flavors",
+      "sugar",
+      "artificial sweeteners",
+      "potassium sorbate",
+      "caramel color",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Red Bull Variant 12",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant12,drink",
+    "ingredients": [
+      "glucose",
+      "artificial sweeteners",
+      "mango pulp",
+      "apple extract",
+      "sugar",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Prime Variant 12",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant12,drink",
+    "ingredients": [
+      "lemon juice",
+      "potassium sorbate",
+      "orange essence",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Tropicana Variant 12",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant12,drink",
+    "ingredients": [
+      "fruit juice",
+      "carbonated water",
+      "artificial sweeteners",
+      "citric acid",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Minute Maid Variant 12",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant12,drink",
+    "ingredients": [
+      "fruit juice",
+      "sodium citrate",
+      "electrolytes",
+      "sodium benzoate",
+      "carbonated water",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Pepsi Variant 13",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant13,drink",
+    "ingredients": [
+      "electrolytes",
+      "carbonated water",
+      "caramel color",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Coca-Cola Variant 13",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant13,drink",
+    "ingredients": [
+      "carbonated water",
+      "glucose",
+      "sugar"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Sprite Variant 13",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant13,drink",
+    "ingredients": [
+      "electrolytes",
+      "lime flavor",
+      "phosphoric acid",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Fanta Variant 13",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant13,drink",
+    "ingredients": [
+      "caffeine",
+      "carbonated water",
+      "natural flavors",
+      "vitamin C",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Mountain Dew Variant 13",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant13,drink",
+    "ingredients": [
+      "vitamin C",
+      "mango pulp",
+      "lime flavor",
+      "phosphoric acid",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "7 Up Variant 13",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant13,drink",
+    "ingredients": [
+      "lime flavor",
+      "electrolytes",
+      "sugar"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Dr Pepper Variant 13",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant13,drink",
+    "ingredients": [
+      "fruit juice",
+      "sodium citrate",
+      "glucose",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Root Beer Variant 13",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant13,drink",
+    "ingredients": [
+      "glucose",
+      "apple extract",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Mirinda Variant 13",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant13,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "fruit juice",
+      "sugar",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Thums Up Variant 13",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant13,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "fruit juice",
+      "mango pulp",
+      "vitamin C",
+      "glucose",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Limca Variant 13",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant13,drink",
+    "ingredients": [
+      "caffeine",
+      "potassium sorbate",
+      "lime flavor",
+      "natural flavors",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Appy Fizz Variant 13",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant13,drink",
+    "ingredients": [
+      "apple extract",
+      "electrolytes",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Slice Variant 13",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant13,drink",
+    "ingredients": [
+      "fruit juice",
+      "artificial sweeteners",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Maaza Variant 13",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant13,drink",
+    "ingredients": [
+      "sugar",
+      "phosphoric acid",
+      "orange essence",
+      "sodium citrate",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Sting Variant 13",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant13,drink",
+    "ingredients": [
+      "citric acid",
+      "lemon juice",
+      "caramel color",
+      "natural flavors",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Monster Energy Variant 13",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant13,drink",
+    "ingredients": [
+      "vitamin C",
+      "glucose",
+      "sodium citrate",
+      "fruit juice",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Red Bull Variant 13",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant13,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "sodium citrate",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Prime Variant 13",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant13,drink",
+    "ingredients": [
+      "glucose",
+      "potassium sorbate",
+      "apple extract",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Tropicana Variant 13",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant13,drink",
+    "ingredients": [
+      "mango pulp",
+      "potassium sorbate",
+      "lemon juice",
+      "caffeine",
+      "citric acid",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Minute Maid Variant 13",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant13,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "artificial sweeteners",
+      "natural flavors",
+      "caffeine",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Pepsi Variant 14",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant14,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "artificial sweeteners",
+      "fruit juice",
+      "vitamin C",
+      "citric acid",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Coca-Cola Variant 14",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant14,drink",
+    "ingredients": [
+      "caramel color",
+      "sodium benzoate",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Sprite Variant 14",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant14,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "sodium benzoate",
+      "caramel color",
+      "lemon juice",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Fanta Variant 14",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant14,drink",
+    "ingredients": [
+      "glucose",
+      "electrolytes",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Mountain Dew Variant 14",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant14,drink",
+    "ingredients": [
+      "vitamin C",
+      "electrolytes",
+      "phosphoric acid",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "7 Up Variant 14",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant14,drink",
+    "ingredients": [
+      "lemon juice",
+      "apple extract",
+      "sodium benzoate",
+      "glucose"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Dr Pepper Variant 14",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant14,drink",
+    "ingredients": [
+      "vitamin C",
+      "citric acid",
+      "electrolytes",
+      "sodium benzoate",
+      "apple extract",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Root Beer Variant 14",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant14,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "citric acid",
+      "sodium citrate",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Mirinda Variant 14",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant14,drink",
+    "ingredients": [
+      "electrolytes",
+      "artificial sweeteners",
+      "phosphoric acid",
+      "citric acid",
+      "fruit juice",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Thums Up Variant 14",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant14,drink",
+    "ingredients": [
+      "sodium citrate",
+      "artificial sweeteners",
+      "sodium benzoate",
+      "potassium sorbate",
+      "citric acid",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Limca Variant 14",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant14,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "orange essence",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Appy Fizz Variant 14",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant14,drink",
+    "ingredients": [
+      "sugar",
+      "natural flavors",
+      "vitamin C",
+      "sodium citrate",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Slice Variant 14",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant14,drink",
+    "ingredients": [
+      "natural flavors",
+      "electrolytes",
+      "potassium sorbate",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Maaza Variant 14",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant14,drink",
+    "ingredients": [
+      "lemon juice",
+      "phosphoric acid",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Sting Variant 14",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant14,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "vitamin C",
+      "potassium sorbate",
+      "caramel color",
+      "natural flavors",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Monster Energy Variant 14",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant14,drink",
+    "ingredients": [
+      "vitamin C",
+      "sodium benzoate",
+      "apple extract",
+      "glucose",
+      "orange essence",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Red Bull Variant 14",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant14,drink",
+    "ingredients": [
+      "lime flavor",
+      "phosphoric acid",
+      "fruit juice",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Prime Variant 14",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant14,drink",
+    "ingredients": [
+      "caramel color",
+      "sugar",
+      "citric acid",
+      "apple extract",
+      "lemon juice",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Tropicana Variant 14",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant14,drink",
+    "ingredients": [
+      "caramel color",
+      "carbonated water",
+      "apple extract",
+      "orange essence",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Minute Maid Variant 14",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant14,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "fruit juice",
+      "mango pulp",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Pepsi Variant 15",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant15,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "artificial sweeteners",
+      "mango pulp",
+      "lime flavor",
+      "caffeine",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Coca-Cola Variant 15",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant15,drink",
+    "ingredients": [
+      "caramel color",
+      "artificial sweeteners",
+      "phosphoric acid",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Sprite Variant 15",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant15,drink",
+    "ingredients": [
+      "sugar",
+      "caffeine",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Fanta Variant 15",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant15,drink",
+    "ingredients": [
+      "caramel color",
+      "artificial sweeteners",
+      "caffeine",
+      "fruit juice",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Mountain Dew Variant 15",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant15,drink",
+    "ingredients": [
+      "sodium citrate",
+      "potassium sorbate",
+      "fruit juice",
+      "glucose"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "7 Up Variant 15",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant15,drink",
+    "ingredients": [
+      "carbonated water",
+      "sugar",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Dr Pepper Variant 15",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant15,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "citric acid",
+      "vitamin C",
+      "mango pulp",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Root Beer Variant 15",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant15,drink",
+    "ingredients": [
+      "apple extract",
+      "glucose",
+      "caramel color",
+      "carbonated water",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Mirinda Variant 15",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant15,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "glucose",
+      "orange essence",
+      "vitamin C",
+      "carbonated water",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Thums Up Variant 15",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant15,drink",
+    "ingredients": [
+      "orange essence",
+      "natural flavors",
+      "citric acid",
+      "sugar"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Limca Variant 15",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant15,drink",
+    "ingredients": [
+      "glucose",
+      "lime flavor",
+      "sodium citrate",
+      "potassium sorbate",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Appy Fizz Variant 15",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant15,drink",
+    "ingredients": [
+      "caffeine",
+      "glucose",
+      "phosphoric acid",
+      "electrolytes",
+      "apple extract",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Slice Variant 15",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant15,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "glucose",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Maaza Variant 15",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant15,drink",
+    "ingredients": [
+      "electrolytes",
+      "potassium sorbate",
+      "caffeine",
+      "apple extract",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Sting Variant 15",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant15,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "sodium benzoate",
+      "lime flavor",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Monster Energy Variant 15",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant15,drink",
+    "ingredients": [
+      "vitamin C",
+      "caramel color",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Red Bull Variant 15",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant15,drink",
+    "ingredients": [
+      "lemon juice",
+      "orange essence",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Prime Variant 15",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant15,drink",
+    "ingredients": [
+      "lime flavor",
+      "carbonated water",
+      "artificial sweeteners",
+      "sodium benzoate",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Tropicana Variant 15",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant15,drink",
+    "ingredients": [
+      "fruit juice",
+      "caramel color",
+      "electrolytes",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Minute Maid Variant 15",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant15,drink",
+    "ingredients": [
+      "lemon juice",
+      "artificial sweeteners",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Pepsi Variant 16",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant16,drink",
+    "ingredients": [
+      "electrolytes",
+      "potassium sorbate",
+      "artificial sweeteners",
+      "carbonated water",
+      "caramel color",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Coca-Cola Variant 16",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant16,drink",
+    "ingredients": [
+      "lime flavor",
+      "sodium benzoate",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Sprite Variant 16",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant16,drink",
+    "ingredients": [
+      "lime flavor",
+      "vitamin C",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Fanta Variant 16",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant16,drink",
+    "ingredients": [
+      "electrolytes",
+      "lemon juice",
+      "caramel color",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Mountain Dew Variant 16",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant16,drink",
+    "ingredients": [
+      "caramel color",
+      "apple extract",
+      "phosphoric acid",
+      "vitamin C",
+      "electrolytes",
+      "sugar"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "7 Up Variant 16",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant16,drink",
+    "ingredients": [
+      "orange essence",
+      "glucose",
+      "citric acid",
+      "vitamin C",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Dr Pepper Variant 16",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant16,drink",
+    "ingredients": [
+      "glucose",
+      "potassium sorbate",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Root Beer Variant 16",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant16,drink",
+    "ingredients": [
+      "glucose",
+      "phosphoric acid",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Mirinda Variant 16",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant16,drink",
+    "ingredients": [
+      "electrolytes",
+      "caffeine",
+      "sodium citrate",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Thums Up Variant 16",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant16,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "sugar",
+      "caramel color",
+      "orange essence",
+      "apple extract",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Limca Variant 16",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant16,drink",
+    "ingredients": [
+      "lemon juice",
+      "electrolytes",
+      "citric acid",
+      "fruit juice",
+      "sodium benzoate",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Appy Fizz Variant 16",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant16,drink",
+    "ingredients": [
+      "electrolytes",
+      "sugar",
+      "lemon juice",
+      "potassium sorbate",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Slice Variant 16",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant16,drink",
+    "ingredients": [
+      "orange essence",
+      "electrolytes",
+      "artificial sweeteners",
+      "natural flavors",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Maaza Variant 16",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant16,drink",
+    "ingredients": [
+      "caffeine",
+      "electrolytes",
+      "fruit juice",
+      "orange essence",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Sting Variant 16",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant16,drink",
+    "ingredients": [
+      "natural flavors",
+      "sugar",
+      "vitamin C",
+      "lemon juice",
+      "lime flavor",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Monster Energy Variant 16",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant16,drink",
+    "ingredients": [
+      "carbonated water",
+      "sodium citrate",
+      "phosphoric acid",
+      "artificial sweeteners",
+      "citric acid",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Red Bull Variant 16",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant16,drink",
+    "ingredients": [
+      "orange essence",
+      "glucose",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Prime Variant 16",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant16,drink",
+    "ingredients": [
+      "lime flavor",
+      "caffeine",
+      "lemon juice",
+      "carbonated water",
+      "fruit juice",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Tropicana Variant 16",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant16,drink",
+    "ingredients": [
+      "carbonated water",
+      "potassium sorbate",
+      "phosphoric acid",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Minute Maid Variant 16",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant16,drink",
+    "ingredients": [
+      "fruit juice",
+      "sodium benzoate",
+      "phosphoric acid",
+      "potassium sorbate",
+      "vitamin C",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Pepsi Variant 17",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant17,drink",
+    "ingredients": [
+      "natural flavors",
+      "lemon juice",
+      "sodium citrate",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Coca-Cola Variant 17",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant17,drink",
+    "ingredients": [
+      "natural flavors",
+      "fruit juice",
+      "caramel color",
+      "sodium benzoate",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Sprite Variant 17",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant17,drink",
+    "ingredients": [
+      "caffeine",
+      "caramel color",
+      "phosphoric acid",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Fanta Variant 17",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant17,drink",
+    "ingredients": [
+      "natural flavors",
+      "apple extract",
+      "sugar",
+      "potassium sorbate",
+      "sodium citrate",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Mountain Dew Variant 17",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant17,drink",
+    "ingredients": [
+      "caffeine",
+      "lemon juice",
+      "fruit juice",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "7 Up Variant 17",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant17,drink",
+    "ingredients": [
+      "mango pulp",
+      "citric acid",
+      "caffeine",
+      "apple extract",
+      "fruit juice",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Dr Pepper Variant 17",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant17,drink",
+    "ingredients": [
+      "caffeine",
+      "orange essence",
+      "carbonated water",
+      "potassium sorbate",
+      "natural flavors",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Root Beer Variant 17",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant17,drink",
+    "ingredients": [
+      "caffeine",
+      "glucose",
+      "artificial sweeteners",
+      "fruit juice",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Mirinda Variant 17",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant17,drink",
+    "ingredients": [
+      "sugar",
+      "apple extract",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Thums Up Variant 17",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant17,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "natural flavors",
+      "sugar"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Limca Variant 17",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant17,drink",
+    "ingredients": [
+      "caffeine",
+      "sodium benzoate",
+      "potassium sorbate",
+      "artificial sweeteners",
+      "fruit juice",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Appy Fizz Variant 17",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant17,drink",
+    "ingredients": [
+      "sugar",
+      "phosphoric acid",
+      "potassium sorbate",
+      "mango pulp",
+      "orange essence",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Slice Variant 17",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant17,drink",
+    "ingredients": [
+      "caffeine",
+      "fruit juice",
+      "glucose"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Maaza Variant 17",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant17,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "natural flavors",
+      "mango pulp",
+      "phosphoric acid",
+      "sugar"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Sting Variant 17",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant17,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "apple extract",
+      "carbonated water",
+      "mango pulp",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Monster Energy Variant 17",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant17,drink",
+    "ingredients": [
+      "lime flavor",
+      "apple extract",
+      "caramel color",
+      "mango pulp",
+      "glucose",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Red Bull Variant 17",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant17,drink",
+    "ingredients": [
+      "apple extract",
+      "electrolytes",
+      "phosphoric acid",
+      "artificial sweeteners",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Prime Variant 17",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant17,drink",
+    "ingredients": [
+      "citric acid",
+      "mango pulp",
+      "carbonated water",
+      "sodium citrate",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Tropicana Variant 17",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant17,drink",
+    "ingredients": [
+      "glucose",
+      "vitamin C",
+      "sodium benzoate",
+      "artificial sweeteners",
+      "apple extract",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Minute Maid Variant 17",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant17,drink",
+    "ingredients": [
+      "lime flavor",
+      "mango pulp",
+      "sodium citrate",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Pepsi Variant 18",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant18,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "glucose",
+      "lemon juice",
+      "potassium sorbate",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Coca-Cola Variant 18",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant18,drink",
+    "ingredients": [
+      "lemon juice",
+      "fruit juice",
+      "sodium citrate",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Sprite Variant 18",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant18,drink",
+    "ingredients": [
+      "fruit juice",
+      "apple extract",
+      "glucose",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Fanta Variant 18",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant18,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "lime flavor",
+      "electrolytes",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Mountain Dew Variant 18",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant18,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "natural flavors",
+      "carbonated water",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "7 Up Variant 18",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant18,drink",
+    "ingredients": [
+      "lime flavor",
+      "vitamin C",
+      "sodium citrate",
+      "apple extract",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Dr Pepper Variant 18",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant18,drink",
+    "ingredients": [
+      "natural flavors",
+      "potassium sorbate",
+      "sugar"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Root Beer Variant 18",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant18,drink",
+    "ingredients": [
+      "natural flavors",
+      "caramel color",
+      "orange essence",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Mirinda Variant 18",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant18,drink",
+    "ingredients": [
+      "lemon juice",
+      "apple extract",
+      "electrolytes",
+      "carbonated water",
+      "potassium sorbate",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Thums Up Variant 18",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant18,drink",
+    "ingredients": [
+      "caffeine",
+      "caramel color",
+      "vitamin C",
+      "electrolytes",
+      "sodium citrate",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Limca Variant 18",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant18,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "vitamin C",
+      "lime flavor",
+      "phosphoric acid",
+      "mango pulp",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Appy Fizz Variant 18",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant18,drink",
+    "ingredients": [
+      "caramel color",
+      "sodium citrate",
+      "natural flavors",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Slice Variant 18",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant18,drink",
+    "ingredients": [
+      "natural flavors",
+      "fruit juice",
+      "artificial sweeteners",
+      "glucose"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Maaza Variant 18",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant18,drink",
+    "ingredients": [
+      "mango pulp",
+      "sodium benzoate",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Sting Variant 18",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant18,drink",
+    "ingredients": [
+      "natural flavors",
+      "sodium benzoate",
+      "phosphoric acid",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Monster Energy Variant 18",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant18,drink",
+    "ingredients": [
+      "citric acid",
+      "glucose",
+      "artificial sweeteners",
+      "vitamin C",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Red Bull Variant 18",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant18,drink",
+    "ingredients": [
+      "carbonated water",
+      "artificial sweeteners",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Prime Variant 18",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant18,drink",
+    "ingredients": [
+      "fruit juice",
+      "electrolytes",
+      "vitamin C",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Tropicana Variant 18",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant18,drink",
+    "ingredients": [
+      "orange essence",
+      "mango pulp",
+      "lime flavor",
+      "potassium sorbate",
+      "fruit juice",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Minute Maid Variant 18",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant18,drink",
+    "ingredients": [
+      "vitamin C",
+      "mango pulp",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "Pepsi Variant 19",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant19,drink",
+    "ingredients": [
+      "sodium citrate",
+      "vitamin C",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Coca-Cola Variant 19",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant19,drink",
+    "ingredients": [
+      "orange essence",
+      "citric acid",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Sprite Variant 19",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant19,drink",
+    "ingredients": [
+      "fruit juice",
+      "phosphoric acid",
+      "apple extract",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Fanta Variant 19",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant19,drink",
+    "ingredients": [
+      "natural flavors",
+      "caffeine",
+      "vitamin C",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Mountain Dew Variant 19",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant19,drink",
+    "ingredients": [
+      "apple extract",
+      "lime flavor",
+      "vitamin C",
+      "citric acid",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "7 Up Variant 19",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant19,drink",
+    "ingredients": [
+      "vitamin C",
+      "lime flavor",
+      "lemon juice",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Dr Pepper Variant 19",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant19,drink",
+    "ingredients": [
+      "carbonated water",
+      "glucose",
+      "potassium sorbate",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Root Beer Variant 19",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant19,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "caramel color",
+      "phosphoric acid",
+      "sugar",
+      "apple extract",
+      "glucose"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Mirinda Variant 19",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant19,drink",
+    "ingredients": [
+      "carbonated water",
+      "electrolytes",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Thums Up Variant 19",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant19,drink",
+    "ingredients": [
+      "glucose",
+      "caramel color",
+      "natural flavors",
+      "artificial sweeteners",
+      "lemon juice",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Limca Variant 19",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant19,drink",
+    "ingredients": [
+      "electrolytes",
+      "citric acid",
+      "caramel color",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Appy Fizz Variant 19",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant19,drink",
+    "ingredients": [
+      "fruit juice",
+      "carbonated water",
+      "lime flavor",
+      "lemon juice",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Slice Variant 19",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant19,drink",
+    "ingredients": [
+      "apple extract",
+      "caramel color",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Maaza Variant 19",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant19,drink",
+    "ingredients": [
+      "mango pulp",
+      "caffeine",
+      "sodium benzoate",
+      "fruit juice",
+      "citric acid",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Sting Variant 19",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant19,drink",
+    "ingredients": [
+      "natural flavors",
+      "potassium sorbate",
+      "fruit juice",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Monster Energy Variant 19",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant19,drink",
+    "ingredients": [
+      "vitamin C",
+      "sodium citrate",
+      "caramel color",
+      "lime flavor",
+      "citric acid",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Red Bull Variant 19",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant19,drink",
+    "ingredients": [
+      "caffeine",
+      "apple extract",
+      "electrolytes",
+      "artificial sweeteners",
+      "orange essence",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Prime Variant 19",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant19,drink",
+    "ingredients": [
+      "vitamin C",
+      "lime flavor",
+      "phosphoric acid",
+      "sodium citrate",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Tropicana Variant 19",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant19,drink",
+    "ingredients": [
+      "mango pulp",
+      "natural flavors",
+      "fruit juice",
+      "potassium sorbate",
+      "sugar",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Minute Maid Variant 19",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant19,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "electrolytes",
+      "vitamin C",
+      "orange essence",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Pepsi Variant 20",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant20,drink",
+    "ingredients": [
+      "fruit juice",
+      "sodium benzoate",
+      "phosphoric acid",
+      "natural flavors",
+      "sodium citrate",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Coca-Cola Variant 20",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant20,drink",
+    "ingredients": [
+      "natural flavors",
+      "glucose",
+      "artificial sweeteners",
+      "fruit juice",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Sprite Variant 20",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant20,drink",
+    "ingredients": [
+      "sodium citrate",
+      "electrolytes",
+      "natural flavors",
+      "glucose"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Fanta Variant 20",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant20,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "citric acid",
+      "caramel color",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Mountain Dew Variant 20",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant20,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "fruit juice",
+      "caffeine",
+      "lime flavor",
+      "caramel color",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "7 Up Variant 20",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant20,drink",
+    "ingredients": [
+      "sodium citrate",
+      "lemon juice",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Dr Pepper Variant 20",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant20,drink",
+    "ingredients": [
+      "caramel color",
+      "mango pulp",
+      "citric acid"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Root Beer Variant 20",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant20,drink",
+    "ingredients": [
+      "vitamin C",
+      "lemon juice",
+      "apple extract",
+      "phosphoric acid",
+      "sodium benzoate",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Mirinda Variant 20",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant20,drink",
+    "ingredients": [
+      "sugar",
+      "sodium benzoate",
+      "glucose",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Thums Up Variant 20",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant20,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "glucose",
+      "phosphoric acid",
+      "caffeine",
+      "sodium benzoate",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Limca Variant 20",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant20,drink",
+    "ingredients": [
+      "carbonated water",
+      "caramel color",
+      "potassium sorbate",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Appy Fizz Variant 20",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant20,drink",
+    "ingredients": [
+      "vitamin C",
+      "potassium sorbate",
+      "artificial sweeteners",
+      "apple extract",
+      "mango pulp",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Slice Variant 20",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant20,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "electrolytes",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Maaza Variant 20",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant20,drink",
+    "ingredients": [
+      "lemon juice",
+      "glucose",
+      "sugar",
+      "vitamin C",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Sting Variant 20",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant20,drink",
+    "ingredients": [
+      "lime flavor",
+      "phosphoric acid",
+      "glucose",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Monster Energy Variant 20",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant20,drink",
+    "ingredients": [
+      "caffeine",
+      "caramel color",
+      "citric acid",
+      "sodium citrate"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Red Bull Variant 20",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant20,drink",
+    "ingredients": [
+      "lemon juice",
+      "caramel color",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Prime Variant 20",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant20,drink",
+    "ingredients": [
+      "natural flavors",
+      "mango pulp",
+      "caffeine",
+      "lime flavor",
+      "glucose"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Tropicana Variant 20",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant20,drink",
+    "ingredients": [
+      "electrolytes",
+      "lemon juice",
+      "fruit juice",
+      "sugar"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Minute Maid Variant 20",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant20,drink",
+    "ingredients": [
+      "sugar",
+      "potassium sorbate",
+      "glucose",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Pepsi Variant 21",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant21,drink",
+    "ingredients": [
+      "lemon juice",
+      "lime flavor",
+      "sodium citrate",
+      "phosphoric acid",
+      "citric acid",
+      "glucose"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Coca-Cola Variant 21",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant21,drink",
+    "ingredients": [
+      "orange essence",
+      "sodium benzoate",
+      "electrolytes",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Sprite Variant 21",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant21,drink",
+    "ingredients": [
+      "lime flavor",
+      "potassium sorbate",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Fanta Variant 21",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant21,drink",
+    "ingredients": [
+      "vitamin C",
+      "mango pulp",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Mountain Dew Variant 21",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant21,drink",
+    "ingredients": [
+      "caramel color",
+      "artificial sweeteners",
+      "apple extract",
+      "vitamin C",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "7 Up Variant 21",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant21,drink",
+    "ingredients": [
+      "sodium citrate",
+      "carbonated water",
+      "sodium benzoate",
+      "sugar",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Dr Pepper Variant 21",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant21,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "vitamin C",
+      "caramel color",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Root Beer Variant 21",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant21,drink",
+    "ingredients": [
+      "citric acid",
+      "lemon juice",
+      "carbonated water",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Mirinda Variant 21",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant21,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "electrolytes",
+      "sodium benzoate",
+      "caffeine",
+      "fruit juice",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Thums Up Variant 21",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant21,drink",
+    "ingredients": [
+      "apple extract",
+      "mango pulp",
+      "caramel color",
+      "phosphoric acid",
+      "electrolytes",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Limca Variant 21",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant21,drink",
+    "ingredients": [
+      "vitamin C",
+      "citric acid",
+      "lemon juice",
+      "caramel color",
+      "orange essence",
+      "glucose"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Appy Fizz Variant 21",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant21,drink",
+    "ingredients": [
+      "fruit juice",
+      "caramel color",
+      "mango pulp",
+      "sugar"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Slice Variant 21",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant21,drink",
+    "ingredients": [
+      "lime flavor",
+      "electrolytes",
+      "fruit juice",
+      "phosphoric acid",
+      "apple extract",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Maaza Variant 21",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant21,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "electrolytes",
+      "potassium sorbate",
+      "lime flavor",
+      "fruit juice",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Sting Variant 21",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant21,drink",
+    "ingredients": [
+      "lemon juice",
+      "electrolytes",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Monster Energy Variant 21",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant21,drink",
+    "ingredients": [
+      "lime flavor",
+      "caramel color",
+      "mango pulp",
+      "glucose",
+      "citric acid",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Red Bull Variant 21",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant21,drink",
+    "ingredients": [
+      "mango pulp",
+      "sodium citrate",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Prime Variant 21",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant21,drink",
+    "ingredients": [
+      "sodium citrate",
+      "potassium sorbate",
+      "lime flavor",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Tropicana Variant 21",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant21,drink",
+    "ingredients": [
+      "mango pulp",
+      "sodium benzoate",
+      "lemon juice",
+      "caffeine",
+      "sugar",
+      "glucose"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Minute Maid Variant 21",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant21,drink",
+    "ingredients": [
+      "electrolytes",
+      "artificial sweeteners",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Pepsi Variant 22",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant22,drink",
+    "ingredients": [
+      "vitamin C",
+      "fruit juice",
+      "artificial sweeteners",
+      "carbonated water",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Coca-Cola Variant 22",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant22,drink",
+    "ingredients": [
+      "caffeine",
+      "glucose",
+      "lime flavor",
+      "apple extract",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Sprite Variant 22",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant22,drink",
+    "ingredients": [
+      "orange essence",
+      "vitamin C",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Fanta Variant 22",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant22,drink",
+    "ingredients": [
+      "artificial sweeteners",
+      "lemon juice",
+      "vitamin C",
+      "phosphoric acid",
+      "potassium sorbate",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Mountain Dew Variant 22",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant22,drink",
+    "ingredients": [
+      "sugar",
+      "potassium sorbate",
+      "mango pulp",
+      "glucose",
+      "electrolytes",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "7 Up Variant 22",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant22,drink",
+    "ingredients": [
+      "lemon juice",
+      "orange essence",
+      "sodium benzoate",
+      "glucose",
+      "natural flavors",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Dr Pepper Variant 22",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant22,drink",
+    "ingredients": [
+      "caffeine",
+      "natural flavors",
+      "potassium sorbate",
+      "phosphoric acid",
+      "citric acid",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Root Beer Variant 22",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant22,drink",
+    "ingredients": [
+      "orange essence",
+      "sugar",
+      "lime flavor",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Mirinda Variant 22",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant22,drink",
+    "ingredients": [
+      "electrolytes",
+      "natural flavors",
+      "vitamin C",
+      "mango pulp",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Thums Up Variant 22",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant22,drink",
+    "ingredients": [
+      "mango pulp",
+      "orange essence",
+      "natural flavors",
+      "sugar"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Limca Variant 22",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant22,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "sugar",
+      "lemon juice",
+      "glucose",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Appy Fizz Variant 22",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant22,drink",
+    "ingredients": [
+      "sugar",
+      "fruit juice",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Slice Variant 22",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant22,drink",
+    "ingredients": [
+      "sodium citrate",
+      "citric acid",
+      "glucose",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Maaza Variant 22",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant22,drink",
+    "ingredients": [
+      "lime flavor",
+      "sugar",
+      "phosphoric acid",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Sting Variant 22",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant22,drink",
+    "ingredients": [
+      "electrolytes",
+      "glucose",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Monster Energy Variant 22",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant22,drink",
+    "ingredients": [
+      "caramel color",
+      "sodium benzoate",
+      "potassium sorbate",
+      "glucose",
+      "lemon juice",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Red Bull Variant 22",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant22,drink",
+    "ingredients": [
+      "lemon juice",
+      "electrolytes",
+      "sodium benzoate",
+      "natural flavors",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Prime Variant 22",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant22,drink",
+    "ingredients": [
+      "sodium citrate",
+      "natural flavors",
+      "fruit juice",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Tropicana Variant 22",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant22,drink",
+    "ingredients": [
+      "sodium benzoate",
+      "phosphoric acid",
+      "vitamin C",
+      "sugar"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Minute Maid Variant 22",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant22,drink",
+    "ingredients": [
+      "caramel color",
+      "orange essence",
+      "sugar",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "Pepsi Variant 23",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant23,drink",
+    "ingredients": [
+      "caffeine",
+      "natural flavors",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Coca-Cola Variant 23",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant23,drink",
+    "ingredients": [
+      "phosphoric acid",
+      "natural flavors",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Sprite Variant 23",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant23,drink",
+    "ingredients": [
+      "electrolytes",
+      "apple extract",
+      "natural flavors"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Fanta Variant 23",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant23,drink",
+    "ingredients": [
+      "lemon juice",
+      "glucose",
+      "orange essence",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Mountain Dew Variant 23",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant23,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "natural flavors",
+      "lemon juice",
+      "apple extract",
+      "sugar",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "7 Up Variant 23",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant23,drink",
+    "ingredients": [
+      "vitamin C",
+      "sodium citrate",
+      "sodium benzoate",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Dr Pepper Variant 23",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant23,drink",
+    "ingredients": [
+      "caramel color",
+      "potassium sorbate",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Root Beer Variant 23",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant23,drink",
+    "ingredients": [
+      "fruit juice",
+      "sodium citrate",
+      "caffeine",
+      "sugar",
+      "electrolytes"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Mirinda Variant 23",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant23,drink",
+    "ingredients": [
+      "vitamin C",
+      "fruit juice",
+      "lemon juice",
+      "artificial sweeteners"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Thums Up Variant 23",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant23,drink",
+    "ingredients": [
+      "orange essence",
+      "sodium benzoate",
+      "caramel color",
+      "mango pulp",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "Limca Variant 23",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant23,drink",
+    "ingredients": [
+      "caffeine",
+      "sodium benzoate",
+      "citric acid",
+      "potassium sorbate",
+      "sodium citrate",
+      "apple extract"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Appy Fizz Variant 23",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant23,drink",
+    "ingredients": [
+      "natural flavors",
+      "vitamin C",
+      "carbonated water",
+      "electrolytes",
+      "glucose"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Slice Variant 23",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant23,drink",
+    "ingredients": [
+      "apple extract",
+      "caramel color",
+      "carbonated water",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "Maaza Variant 23",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant23,drink",
+    "ingredients": [
+      "sodium citrate",
+      "electrolytes",
+      "phosphoric acid",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Sting Variant 23",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant23,drink",
+    "ingredients": [
+      "caramel color",
+      "vitamin C",
+      "potassium sorbate",
+      "natural flavors",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Monster Energy Variant 23",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant23,drink",
+    "ingredients": [
+      "electrolytes",
+      "natural flavors",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Red Bull Variant 23",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant23,drink",
+    "ingredients": [
+      "orange essence",
+      "vitamin C",
+      "lime flavor"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Prime Variant 23",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant23,drink",
+    "ingredients": [
+      "orange essence",
+      "sugar",
+      "vitamin C",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Tropicana Variant 23",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant23,drink",
+    "ingredients": [
+      "electrolytes",
+      "apple extract",
+      "vitamin C"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Minute Maid Variant 23",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant23,drink",
+    "ingredients": [
+      "caffeine",
+      "carbonated water",
+      "natural flavors",
+      "vitamin C",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Pepsi Variant 24",
+    "description": "Classic cola with a bold taste.",
+    "image": "https://source.unsplash.com/featured/?PepsiVariant24,drink",
+    "ingredients": [
+      "sugar",
+      "caramel color",
+      "potassium sorbate",
+      "orange essence",
+      "glucose"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Coca-Cola Variant 24",
+    "description": "Refreshing cola with a unique flavor.",
+    "image": "https://source.unsplash.com/featured/?Coca-ColaVariant24,drink",
+    "ingredients": [
+      "sugar",
+      "caramel color",
+      "electrolytes",
+      "fruit juice",
+      "apple extract",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Sprite Variant 24",
+    "description": "Lemon-lime soda with crisp taste.",
+    "image": "https://source.unsplash.com/featured/?SpriteVariant24,drink",
+    "ingredients": [
+      "orange essence",
+      "caffeine",
+      "phosphoric acid"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Fanta Variant 24",
+    "description": "Fruity orange soda loved worldwide.",
+    "image": "https://source.unsplash.com/featured/?FantaVariant24,drink",
+    "ingredients": [
+      "potassium sorbate",
+      "citric acid",
+      "carbonated water",
+      "lime flavor",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Mountain Dew Variant 24",
+    "description": "Citrus-flavored high-energy drink.",
+    "image": "https://source.unsplash.com/featured/?MountainDewVariant24,drink",
+    "ingredients": [
+      "caramel color",
+      "natural flavors",
+      "carbonated water",
+      "sugar",
+      "vitamin C",
+      "orange essence"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "7 Up Variant 24",
+    "description": "Lemon-lime soda, caffeine-free.",
+    "image": "https://source.unsplash.com/featured/?7UpVariant24,drink",
+    "ingredients": [
+      "lime flavor",
+      "citric acid",
+      "natural flavors",
+      "carbonated water",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Dr Pepper Variant 24",
+    "description": "Blend of 23 flavors in one soda.",
+    "image": "https://source.unsplash.com/featured/?DrPepperVariant24,drink",
+    "ingredients": [
+      "lime flavor",
+      "phosphoric acid",
+      "citric acid",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Root Beer Variant 24",
+    "description": "Creamy soda with vanilla and spice.",
+    "image": "https://source.unsplash.com/featured/?RootBeerVariant24,drink",
+    "ingredients": [
+      "sodium citrate",
+      "mango pulp",
+      "sugar",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Mirinda Variant 24",
+    "description": "Orange flavored fizzy drink.",
+    "image": "https://source.unsplash.com/featured/?MirindaVariant24,drink",
+    "ingredients": [
+      "fruit juice",
+      "vitamin C",
+      "natural flavors",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Thums Up Variant 24",
+    "description": "Strong cola flavor popular in India.",
+    "image": "https://source.unsplash.com/featured/?ThumsUpVariant24,drink",
+    "ingredients": [
+      "natural flavors",
+      "potassium sorbate",
+      "lime flavor",
+      "apple extract",
+      "caffeine"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Limca Variant 24",
+    "description": "Lime and lemony sparkling drink.",
+    "image": "https://source.unsplash.com/featured/?LimcaVariant24,drink",
+    "ingredients": [
+      "apple extract",
+      "sodium citrate",
+      "caffeine",
+      "sugar",
+      "caramel color"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Appy Fizz Variant 24",
+    "description": "Sparkling apple juice drink.",
+    "image": "https://source.unsplash.com/featured/?AppyFizzVariant24,drink",
+    "ingredients": [
+      "caramel color",
+      "sodium benzoate",
+      "lemon juice",
+      "orange essence",
+      "potassium sorbate"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Slice Variant 24",
+    "description": "Mango drink with juicy flavor.",
+    "image": "https://source.unsplash.com/featured/?SliceVariant24,drink",
+    "ingredients": [
+      "glucose",
+      "orange essence",
+      "artificial sweeteners",
+      "fruit juice",
+      "sodium citrate",
+      "sugar"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Maaza Variant 24",
+    "description": "Rich mango drink with real pulp.",
+    "image": "https://source.unsplash.com/featured/?MaazaVariant24,drink",
+    "ingredients": [
+      "glucose",
+      "lime flavor",
+      "artificial sweeteners",
+      "orange essence",
+      "mango pulp"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Sting Variant 24",
+    "description": "Energy drink with a berry blast.",
+    "image": "https://source.unsplash.com/featured/?StingVariant24,drink",
+    "ingredients": [
+      "glucose",
+      "apple extract",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Monster Energy Variant 24",
+    "description": "High caffeine energy drink.",
+    "image": "https://source.unsplash.com/featured/?MonsterEnergyVariant24,drink",
+    "ingredients": [
+      "citric acid",
+      "orange essence",
+      "glucose"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Red Bull Variant 24",
+    "description": "Popular energy drink for a quick boost.",
+    "image": "https://source.unsplash.com/featured/?RedBullVariant24,drink",
+    "ingredients": [
+      "caffeine",
+      "electrolytes",
+      "carbonated water"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Prime Variant 24",
+    "description": "Hydration drink with electrolytes.",
+    "image": "https://source.unsplash.com/featured/?PrimeVariant24,drink",
+    "ingredients": [
+      "lime flavor",
+      "potassium sorbate",
+      "natural flavors",
+      "sodium benzoate"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Tropicana Variant 24",
+    "description": "Fruit juice blend in many flavors.",
+    "image": "https://source.unsplash.com/featured/?TropicanaVariant24,drink",
+    "ingredients": [
+      "lemon juice",
+      "orange essence",
+      "phosphoric acid",
+      "caffeine",
+      "artificial sweeteners",
+      "fruit juice"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Minute Maid Variant 24",
+    "description": "Fresh fruit juices from Coca-Cola.",
+    "image": "https://source.unsplash.com/featured/?MinuteMaidVariant24,drink",
+    "ingredients": [
+      "caramel color",
+      "sodium citrate",
+      "caffeine",
+      "electrolytes"
+    ]
+  }
+]
