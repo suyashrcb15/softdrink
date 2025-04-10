@@ -71,13 +71,12 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
 
     return (
         <>
-                <Navbar /> {/* Added Navbar component */}
-                <Bounded
-                    data-slice-type={slice.slice_type}
-                    data-slice-variation={slice.variation}
-                    className="hero opacity-0 mt-24 md:mt-32"
-                >
-
+            <Navbar /> {/* Added Navbar component */}
+            <Bounded
+                data-slice-type={slice.slice_type}
+                data-slice-variation={slice.variation}
+                className="hero opacity-0 mt-24 md:mt-32"
+            >
                 {isDesktop && (
                     <View className="hero-scene pointer-events-none sticky top-0 z-50 -mt-[100vh] hidden h-screen w-screen md:block">
                         <Scene />
@@ -88,14 +87,14 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
                 <div className="grid">
                     <div className="grid h-screen place-items-center">
                         <div className="grid auto-rows-min place-items-center text-center">
-                            <h1 className="hero-header mt-8 text-7xl font-black uppercase leading-[.8] text-orange-500 md:text-[9rem] lg:text-[13rem]">
+                            <h1 className="hero-header mt-8 text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-black uppercase leading-[.8] text-orange-500 md:text-[9rem] lg:text-[13rem]">
                                 <TextSplitter text={asText(slice.primary.heading)} wordDisplayStyle="block"
                                               className="hero-header-word" />
                             </h1>
-                            <div className="hero-subheading mt-12 text-5xl font-semibold text-white lg:text-6xl">
+                            <div className="hero-subheading mt-12 text-4xl font-semibold text-white lg:text-5xl xl:text-6xl">
                                 <PrismicRichText field={slice.primary.subheading} />
                             </div>
-                            <div className="hero-body text-2xl font-normal text-white">
+                            <div className="hero-body text-xl md:text-2xl font-normal text-white">
                                 <PrismicRichText field={slice.primary.body} />
                             </div>
                             <Button buttonLink={slice.primary.button_link} buttonText={slice.primary.button_text} className="hero-button mt-12" />
@@ -105,10 +104,10 @@ const Hero = ({ slice }: HeroProps): JSX.Element => {
                     <div className="text-side relative z-[80] grid h-screen items-center gap-4 md:grid-cols-2">
                         <PrismicNextImage className="w-full md:hidden" field={slice.primary.cans_image} />
                         <div>
-                            <h2 className="text-side-heading text-balance text-6xl font-black uppercase text-orange-500 lg:text-8xl">
+                            <h2 className="text-side-heading text-balance text-5xl md:text-6xl font-black uppercase text-orange-500 lg:text-7xl xl:text-8xl">
                                 <TextSplitter text={asText(slice.primary.second_heading)} />
                             </h2>
-                            <div className="text-side-body mt-4 max-w-xl text-balance text-xl font-normal text-orange-500">
+                            <div className="text-side-body mt-4 max-w-xl text-balance text-lg md:text-xl font-normal text-orange-500">
                                 <PrismicRichText field={slice.primary.second_body} />
                             </div>
                         </div>
