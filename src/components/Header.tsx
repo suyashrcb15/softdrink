@@ -2,30 +2,29 @@
 
 import React from "react";
 
-export default function Header() {
+export default function FlavoursPage() {
     return (
-        <header className="flex justify-center py-4 -mb-28">
-            <h1
-                className="h-20 z-10 cursor-pointer text-orange-600 text-5xl font-extrabold transition-all duration-300 hover:scale-110 hover:text-orange-400 animate-fade-in"
-            >
+        <main className="min-h-screen flex items-center justify-center bg-gradient-to-br from-yellow-100 via-orange-100 to-yellow-200 p-6 font-sans">
+            <h1 className="text-6xl md:text-8xl font-extrabold tracking-widest text-orange-700 drop-shadow-lg animate-fadeIn uppercase">
                 SoftDrink
             </h1>
 
             <style jsx>{`
-                @keyframes fadeIn {
-                    from {
-                        opacity: 0;
-                        transform: translateY(-20px);
-                    }
-                    to {
-                        opacity: 1;
-                        transform: translateY(0);
-                    }
+                .animate-fadeIn {
+                    animation: fadeIn 1.5s ease-in-out;
                 }
-                .animate-fade-in {
-                    animation: fadeIn 0.8s ease-out forwards;
+                @keyframes fadeIn {
+                    0% {
+                        opacity: 0;
+                        transform: scale(0.95);
+                    }
+                    100% {
+                        opacity: 1;
+                        transform: scale(1);
+                    }
                 }
             `}</style>
-        </header>
+        </main>
     );
 }
+

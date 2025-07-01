@@ -52,7 +52,7 @@ export default function Navbar() {
     const activeClass = "text-3xl font-bold text-orange-500";
     const inactiveClass = "text-2xl text-orange-500 hover:text-orange-600";
 
-    const navItems = ["Home", "About", "Drinks", "Contact"];
+    const navItems = ["Home", "About", "Drinks", "Flavours", "Contact"];
 
     return (
         <nav
